@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Logiwa.ProductService.API.props" />
+</Project>

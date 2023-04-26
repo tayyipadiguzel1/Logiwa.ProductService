@@ -1,0 +1,17 @@
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/Logiwa.ProductService.Application.csproj.AssemblyReference.cache
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/Logiwa.ProductService.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/Logiwa.ProductService.Application.AssemblyInfoInputs.cache
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/Logiwa.ProductService.Application.AssemblyInfo.cs
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/Logiwa.ProductService.Application.csproj.CoreCompileInputs.cache
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/bin/Debug/net7.0/Logiwa.ProductService.Application.deps.json
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/bin/Debug/net7.0/Logiwa.ProductService.Application.dll
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/bin/Debug/net7.0/Logiwa.ProductService.Application.pdb
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/bin/Debug/net7.0/Logiwa.ProductService.Domain.dll
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/bin/Debug/net7.0/Logiwa.ProductService.Domain.pdb
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/Logiwa.ProductService.Application.csproj.CopyComplete
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/Logiwa.ProductService.Application.dll
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/refint/Logiwa.ProductService.Application.dll
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/Logiwa.ProductService.Application.pdb
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/obj/Debug/net7.0/ref/Logiwa.ProductService.Application.dll
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/bin/Debug/net7.0/Logiwa.ProductService.Infrastructure.dll
+/Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Application/bin/Debug/net7.0/Logiwa.ProductService.Infrastructure.pdb

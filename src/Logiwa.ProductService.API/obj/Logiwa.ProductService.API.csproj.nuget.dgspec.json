@@ -1,0 +1,320 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.API/Logiwa.ProductService.API.csproj": {}
+  },
+  "projects": {
+    "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.API/Logiwa.ProductService.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.API/Logiwa.ProductService.API.csproj",
+        "projectName": "Logiwa.ProductService.API",
+        "projectPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.API/Logiwa.ProductService.API.csproj",
+        "packagesPath": "/Users/tayyipadiguzel/.nuget/packages/",
+        "outputPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tayyipadiguzel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Application/Logiwa.ProductService.Application.csproj": {
+                "projectPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Application/Logiwa.ProductService.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Application/Logiwa.ProductService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Application/Logiwa.ProductService.Application.csproj",
+        "projectName": "Logiwa.ProductService.Application",
+        "projectPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Application/Logiwa.ProductService.Application.csproj",
+        "packagesPath": "/Users/tayyipadiguzel/.nuget/packages/",
+        "outputPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tayyipadiguzel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/Logiwa.ProductService.Domain.csproj": {
+                "projectPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/Logiwa.ProductService.Domain.csproj"
+              },
+              "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Infrastructure/Logiwa.ProductService.Infrastructure.csproj": {
+                "projectPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Infrastructure/Logiwa.ProductService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/Logiwa.ProductService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/Logiwa.ProductService.Domain.csproj",
+        "projectName": "Logiwa.ProductService.Domain",
+        "projectPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/Logiwa.ProductService.Domain.csproj",
+        "packagesPath": "/Users/tayyipadiguzel/.nuget/packages/",
+        "outputPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tayyipadiguzel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EFCore.NamingConventions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Infrastructure/Logiwa.ProductService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Infrastructure/Logiwa.ProductService.Infrastructure.csproj",
+        "projectName": "Logiwa.ProductService.Infrastructure",
+        "projectPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Infrastructure/Logiwa.ProductService.Infrastructure.csproj",
+        "packagesPath": "/Users/tayyipadiguzel/.nuget/packages/",
+        "outputPath": "/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tayyipadiguzel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

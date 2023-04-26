@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiwa.ProductService.API", "Logiwa.ProductService.API\Logiwa.ProductService.API.csproj", "{8AC8F50E-001E-4EAB-AFA0-516575D8A0B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{18AC92BB-8362-461A-91DF-0DABF7CAA201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiwa.ProductService.Application", "Logiwa.ProductService.Application\Logiwa.ProductService.Application.csproj", "{9DB7F2B7-CC59-43CA-BCC8-8721BDF9E9AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiwa.ProductService.Domain", "Logiwa.ProductService.Domain\Logiwa.ProductService.Domain.csproj", "{6DA8A9E8-D76D-4B72-9880-B1041E64E444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logiwa.ProductService.Infrastructure", "Logiwa.ProductService.Infrastructure\Logiwa.ProductService.Infrastructure.csproj", "{139C8464-9CFA-4342-883E-2FF165290E44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "integrations", "integrations", "{B03BE126-DB98-40F2-8059-E3E0C440A96D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC8F50E-001E-4EAB-AFA0-516575D8A0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC8F50E-001E-4EAB-AFA0-516575D8A0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC8F50E-001E-4EAB-AFA0-516575D8A0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC8F50E-001E-4EAB-AFA0-516575D8A0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB7F2B7-CC59-43CA-BCC8-8721BDF9E9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB7F2B7-CC59-43CA-BCC8-8721BDF9E9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB7F2B7-CC59-43CA-BCC8-8721BDF9E9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB7F2B7-CC59-43CA-BCC8-8721BDF9E9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA8A9E8-D76D-4B72-9880-B1041E64E444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA8A9E8-D76D-4B72-9880-B1041E64E444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA8A9E8-D76D-4B72-9880-B1041E64E444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA8A9E8-D76D-4B72-9880-B1041E64E444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139C8464-9CFA-4342-883E-2FF165290E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139C8464-9CFA-4342-883E-2FF165290E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139C8464-9CFA-4342-883E-2FF165290E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139C8464-9CFA-4342-883E-2FF165290E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8AC8F50E-001E-4EAB-AFA0-516575D8A0B0} = {18AC92BB-8362-461A-91DF-0DABF7CAA201}
+		{9DB7F2B7-CC59-43CA-BCC8-8721BDF9E9AB} = {18AC92BB-8362-461A-91DF-0DABF7CAA201}
+		{6DA8A9E8-D76D-4B72-9880-B1041E64E444} = {18AC92BB-8362-461A-91DF-0DABF7CAA201}
+		{139C8464-9CFA-4342-883E-2FF165290E44} = {18AC92BB-8362-461A-91DF-0DABF7CAA201}
+	EndGlobalSection
+EndGlobal
