@@ -12,3 +12,17 @@
 /Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.pdb
 /Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.genruntimeconfig.cache
 /Users/tayyipadiguzel/Projects/Logiwa.Product/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/ref/Logiwa.ProductService.Domain.dll
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/bin/Debug/net7.0/Logiwa.ProductService.Domain.deps.json
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/bin/Debug/net7.0/Logiwa.ProductService.Domain.runtimeconfig.json
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/bin/Debug/net7.0/Logiwa.ProductService.Domain.dll
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/bin/Debug/net7.0/Logiwa.ProductService.Domain.pdb
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.csproj.AssemblyReference.cache
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.AssemblyInfoInputs.cache
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.AssemblyInfo.cs
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.csproj.CoreCompileInputs.cache
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.dll
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/refint/Logiwa.ProductService.Domain.dll
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.pdb
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/Logiwa.ProductService.Domain.genruntimeconfig.cache
+/Users/tayyipadiguzel/Projects/Logiwa.ProductService/src/Logiwa.ProductService.Domain/obj/Debug/net7.0/ref/Logiwa.ProductService.Domain.dll
